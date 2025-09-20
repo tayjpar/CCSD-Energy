@@ -1,0 +1,1 @@
+ SCF Done:  E(RHF) =  -14.4149626494     A.U. after    7 cycles

@@ -1,0 +1,2 @@
+ALPHA ORBITAL ENERGIES                           NI= 0 NR= 1 NRI= 1 NTot=       4 N=     4     1     1     1     1 IType=0
+     -0.592638    0.264187    0.920280    1.525623

@@ -1,0 +1,177 @@
+*******SOLVING CCSD T AMPLITUDE AND ENERGY*******
+___________________________________________________________________
+___________________________________________________________________
+
+Iteration 0: E_corr(CCSD) -0.026829494090260968
+DIIS Extrapolation Used: False
+E(CCSD): -14.441792143490261
+Step Time: 0.028529882431030273
+
+Iteration 1: E_corr(CCSD) -0.03916143366922202
+DIIS Extrapolation Used: False
+E(CCSD): -14.454124083069221
+Step Time: 0.004091501235961914
+
+Iteration 2: E_corr(CCSD) -0.04600726315374758
+DIIS Extrapolation Used: False
+E(CCSD): -14.460969912553747
+Step Time: 0.004511594772338867
+
+Iteration 3: E_corr(CCSD) -0.05005289695994524
+DIIS Extrapolation Used: False
+E(CCSD): -14.465015546359945
+Step Time: 0.004064321517944336
+
+Iteration 4: E_corr(CCSD) -0.05259294603384053
+DIIS Extrapolation Used: False
+E(CCSD): -14.46755559543384
+Step Time: 0.003691434860229492
+
+Iteration 5: E_corr(CCSD) -0.05425158454617157
+DIIS Extrapolation Used: False
+E(CCSD): -14.469214233946172
+Step Time: 0.006971597671508789
+
+Iteration 6: E_corr(CCSD) -0.05536369154295198
+DIIS Extrapolation Used: True
+E(CCSD): -14.470326340942952
+Step Time: 0.008752584457397461
+
+Iteration 7: E_corr(CCSD) -0.05795681108369691
+DIIS Extrapolation Used: False
+E(CCSD): -14.472919460483697
+Step Time: 0.006525754928588867
+
+Iteration 8: E_corr(CCSD) -0.05796149445017679
+DIIS Extrapolation Used: False
+E(CCSD): -14.472924143850177
+Step Time: 0.006627559661865234
+
+Iteration 9: E_corr(CCSD) -0.05796383751349323
+DIIS Extrapolation Used: True
+E(CCSD): -14.472926486913494
+Step Time: 0.006394863128662109
+
+Iteration 10: E_corr(CCSD) -0.05796584331699112
+DIIS Extrapolation Used: False
+E(CCSD): -14.47292849271699
+Step Time: 0.007239580154418945
+
+Iteration 11: E_corr(CCSD) -0.05796661886086661
+DIIS Extrapolation Used: False
+E(CCSD): -14.472929268260867
+Step Time: 0.006455659866333008
+
+Iteration 12: E_corr(CCSD) -0.05796718533387977
+DIIS Extrapolation Used: False
+E(CCSD): -14.472929834733879
+Step Time: 0.0040607452392578125
+
+Iteration 13: E_corr(CCSD) -0.05796759497172393
+DIIS Extrapolation Used: False
+E(CCSD): -14.472930244371723
+Step Time: 0.004000663757324219
+
+Iteration 14: E_corr(CCSD) -0.057967892841089705
+DIIS Extrapolation Used: False
+E(CCSD): -14.47293054224109
+Step Time: 0.004027128219604492
+
+Iteration 15: E_corr(CCSD) -0.057968110164938386
+DIIS Extrapolation Used: False
+E(CCSD): -14.472930759564939
+Step Time: 0.0041735172271728516
+
+Iteration 16: E_corr(CCSD) -0.05796826928355294
+DIIS Extrapolation Used: False
+E(CCSD): -14.472930918683552
+Step Time: 0.004042148590087891
+
+Iteration 17: E_corr(CCSD) -0.057968386111445266
+DIIS Extrapolation Used: False
+E(CCSD): -14.472931035511445
+Step Time: 0.004140615463256836
+
+Iteration 18: E_corr(CCSD) -0.05796847208298671
+DIIS Extrapolation Used: False
+E(CCSD): -14.472931121482986
+Step Time: 0.003930807113647461
+
+Iteration 19: E_corr(CCSD) -0.05796853546072174
+DIIS Extrapolation Used: False
+E(CCSD): -14.472931184860721
+Step Time: 0.0039215087890625
+
+Iteration 20: E_corr(CCSD) -0.05796858224788615
+DIIS Extrapolation Used: False
+E(CCSD): -14.472931231647886
+Step Time: 0.0038373470306396484
+
+Iteration 21: E_corr(CCSD) -0.05796861682526208
+DIIS Extrapolation Used: False
+E(CCSD): -14.472931266225261
+Step Time: 0.003856658935546875
+
+Iteration 22: E_corr(CCSD) -0.05796864240100089
+DIIS Extrapolation Used: False
+E(CCSD): -14.472931291801
+Step Time: 0.003870248794555664
+
+Iteration 23: E_corr(CCSD) -0.057968661331115244
+DIIS Extrapolation Used: False
+E(CCSD): -14.472931310731115
+Step Time: 0.003850221633911133
+
+Iteration 24: E_corr(CCSD) -0.05796867534966564
+DIIS Extrapolation Used: False
+E(CCSD): -14.472931324749664
+Step Time: 0.00404047966003418
+
+Iteration 25: E_corr(CCSD) -0.057968685735174844
+DIIS Extrapolation Used: False
+E(CCSD): -14.472931335135174
+Step Time: 0.003943681716918945
+
+Iteration 26: E_corr(CCSD) -0.0579686934315874
+DIIS Extrapolation Used: False
+E(CCSD): -14.472931342831586
+Step Time: 0.0038466453552246094
+
+Iteration 27: E_corr(CCSD) -0.05796869913657124
+DIIS Extrapolation Used: False
+E(CCSD): -14.472931348536571
+Step Time: 0.0037851333618164062
+
+Iteration 28: E_corr(CCSD) -0.057968703366201774
+DIIS Extrapolation Used: False
+E(CCSD): -14.472931352766201
+Step Time: 0.0036695003509521484
+
+Iteration 29: E_corr(CCSD) -0.05796870650247633
+DIIS Extrapolation Used: False
+E(CCSD): -14.472931355902476
+Step Time: 0.003599405288696289
+
+Iteration 30: E_corr(CCSD) -0.05796870882829075
+DIIS Extrapolation Used: False
+E(CCSD): -14.47293135822829
+Step Time: 0.003692626953125
+
+Iteration 31: E_corr(CCSD) -0.05796871055323224
+DIIS Extrapolation Used: False
+E(CCSD): -14.472931359953233
+Step Time: 0.0036492347717285156
+
+Iteration 32: E_corr(CCSD) -0.05796871183262355
+DIIS Extrapolation Used: False
+E(CCSD): -14.472931361232623
+Step Time: 0.0036268234252929688
+
+Iteration 33: E_corr(CCSD) -0.057968712781600124
+DIIS Extrapolation Used: False
+E(CCSD): -14.4729313621816
+Step Time: 0.0037832260131835938
+
+---------------------------------------------------------------------------------------
+Total Calculation Time: 0.17920470237731934 seconds
+Successful termination

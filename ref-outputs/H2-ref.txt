@@ -1,0 +1,52 @@
+*******SOLVING CCSD T AMPLITUDE AND ENERGY*******
+___________________________________________________________________
+___________________________________________________________________
+
+Iteration 0: E_corr(CCSD) -0.017313057389948136
+DIIS Extrapolation Used: False
+E(CCSD): -1.140253316229948
+Step Time: 0.002053976058959961
+
+Iteration 1: E_corr(CCSD) -0.022379866100873946
+DIIS Extrapolation Used: False
+E(CCSD): -1.145320124940874
+Step Time: 0.0019228458404541016
+
+Iteration 2: E_corr(CCSD) -0.02399612007564779
+DIIS Extrapolation Used: False
+E(CCSD): -1.1469363789156477
+Step Time: 0.001880645751953125
+
+Iteration 3: E_corr(CCSD) -0.02455123367323166
+DIIS Extrapolation Used: False
+E(CCSD): -1.1474914925132316
+Step Time: 0.001905202865600586
+
+Iteration 4: E_corr(CCSD) -0.024751723488002197
+DIIS Extrapolation Used: False
+E(CCSD): -1.147691982328002
+Step Time: 0.0018651485443115234
+
+Iteration 5: E_corr(CCSD) -0.024826485960580846
+DIIS Extrapolation Used: False
+E(CCSD): -1.1477667448005808
+Step Time: 0.0019683837890625
+
+Iteration 6: E_corr(CCSD) -0.024854928882543585
+DIIS Extrapolation Used: True
+E(CCSD): -1.1477951877225434
+Step Time: 0.002059459686279297
+
+Iteration 7: E_corr(CCSD) -0.02487287490147959
+DIIS Extrapolation Used: False
+E(CCSD): -1.1478131337414794
+Step Time: 0.001981496810913086
+
+Iteration 8: E_corr(CCSD) -0.024872875892460188
+DIIS Extrapolation Used: False
+E(CCSD): -1.14781313473246
+Step Time: 0.0019276142120361328
+
+---------------------------------------------------------------------------------------
+Total Calculation Time: 0.017564773559570312 seconds
+Successful termination

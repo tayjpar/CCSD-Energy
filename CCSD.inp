@@ -1,0 +1,6 @@
+#Inputfile
+
+molecule = Li2 # Takes arguments H2, Li2, or H2O
+
+diis_extrapolation = True # Takes arguments True or False
+
