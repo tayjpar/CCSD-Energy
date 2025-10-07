@@ -29,4 +29,4 @@ You can use the CCSD.inp input file to enter which molecule to use and whether o
 This will generate a text file molecule_name.out, which prints the correlation energy at each step, along with timestamps and information about the DIIS extrapolation.
 The user can verify that they are receiving the correct result by comparing with the reference calculations in the ref-outputs/ directory.
  
-
+Be sure to check out the pdf document for a quick description of what we do in computational quantum chemistry and a breakdown on CCSD theory!
