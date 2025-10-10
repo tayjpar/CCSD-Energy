@@ -2,10 +2,9 @@ CCSD Energy
 ----------------
 
 This is a program which calculates the CCSD energy for a molecule using the results of a 
-Hartree Fock calculation from the GAUSSIAN suite of programs.
-The open-source software Gauopen was then used to extract the needed quantities and write them to text files.
-Specifically, it reads in the 2 electron integrals, molecular orbital coefficients, and oribital energies.
-These text files are located in the directories molecule_name_txts/
+Hartree Fock calculation.
+These quantities are contained in text files in the directories H2_txts, Li2_txts, and H2O_txts (named for the corresponding molecule). 
+Specifically, it reads in from these text files the 2 electron integrals, molecular orbital coefficients, and oribital energies.
 It then uses these to compute the correlation energy at CCSD level of theory.
 I have included the necessary files for the molecules hydrogen (H2), lithium (Li2), and water (H2O).
 These are small systems utilizing minimal basis sets (less accurate descriptions of our orbitals) to keep the computational cost low for the user.
